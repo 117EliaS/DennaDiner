@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Denna\'s Diner: Good Eats!</string>
+
+    <string-array name="options">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+    <string name="title_activity_breakfast_choices">BreakfastChoicesActivity</string>
+    <string name="title_activity_breakfast_item_detail">BreakfastItemDetailActivity</string>
+
+</resources>
+
+    <!-- ;=;e turtle !-->
